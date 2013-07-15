@@ -1,0 +1,3 @@
+name = Security Check
+description = Drush plugin for reviewing site configuration for obvious security issues.
+core = 7.x
